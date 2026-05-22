@@ -23,7 +23,7 @@ Quando uma nova pontuação ultrapassa o recorde anterior, o valor antigo é sub
 - Movimento com gravidade.
 - Canos gerados durante a partida.
 - Detecção de colisão.
-- Pontuação em tempo real.
+- Pontuação em tempo real.  
 - Tela de Game Over.
 - Recorde salvo localmente.
 
